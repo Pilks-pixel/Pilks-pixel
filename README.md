@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pilks-pixel
 - 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript / Node.js & Express.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
