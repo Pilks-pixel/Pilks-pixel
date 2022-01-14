@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pilks-pixel
-- 👀 I’m interested in front end web development.
-- 🌱 I’m currently learning Javascript / Node.js & Express.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pete, welcome to my page.
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning Javascript / Express.js / Databases & Docker
+
+
 
 <!---
 Pilks-pixel/Pilks-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
