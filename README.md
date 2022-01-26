@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pete, welcome to my page.
 - 👀 I’m interested in full stack web development.
-- 🌱 I’m currently learning Javascript / Express.js / Databases & Docker
+- 🌱 I’m currently learning Javascript / Express.js / Databases / Docker / React
 
 
 
