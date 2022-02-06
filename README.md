@@ -7,6 +7,10 @@ As well as coding I enjoy travel, art , studio Ghibli movies and reading.
 
 ### Languages 
 
+### Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pilks-pixel&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pilks-pixel.READMEmd)
 
