@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif' alt='hello' height='80px'/> 
+<img src='https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif' alt='hello' height='80px'/> 
 
 ##  I’m Pete, welcome to my page. 
  
