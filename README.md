@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Pete, welcome to my page. <img src='https://media.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif' alt='hello'/>
+## 👋 Hi, I’m Pete, welcome to my page. <img src='https://media.giphy.com/media/4Z4FRLEzoSwivZP1SI/giphy.gif' alt='hello' height='50px'/>
 
 - 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. 
 
