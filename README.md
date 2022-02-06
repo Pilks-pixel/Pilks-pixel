@@ -10,6 +10,7 @@
 - :computer: I’m currently learning **Javascript**  / Express.js / SQL & Mongo DB / Docker / React / Redux 
 
 ### Languages & Skills
+<p align='left'>
 <img src='https://img.icons8.com/color/2x/html-5--v2.png' alt='html' height='50px'/>
 <img src='https://img.icons8.com/color/2x/css3.png' alt='css' height='50px'/>
 <img src='https://img.icons8.com/color/2x/javascript.png' alt='JS' height='50px'/>
@@ -17,6 +18,7 @@
 <img src='' alt='' height=''/>
 <img src='' alt='' height=''/>
 <img src='' alt='' height=''/>
+</p> 
 
 
 ### Stats 
