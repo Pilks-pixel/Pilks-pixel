@@ -1,6 +1,6 @@
 <img src='https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif' alt='hello' height='80px'/> 
 
-##  I’m Pete, welcome to my page. 
+##  I’m Pete, welcome to my page! 
  
 ### :octocat: About me 
 - 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. I love learning, solving problems and particularly like front-end.
