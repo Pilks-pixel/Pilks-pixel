@@ -1,10 +1,9 @@
 ## 👋 Hi, I’m Pete, welcome to my page.
 
 - 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. 
-
 As well as coding I enjoy travel, art , studio Ghibli movies and reading.
 
-- 🌱 I’m currently learning ** Javascript / Express.js / SQL & Mongo DB / Docker / React / Redux **
+- 🌱 I’m currently learning **Javascript**  / Express.js / SQL & Mongo DB / Docker / React / Redux 
 
 
 
