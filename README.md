@@ -5,6 +5,11 @@ As well as coding I enjoy travel, art , studio Ghibli movies and reading.
 
 - 🌱 I’m currently learning **Javascript**  / Express.js / SQL & Mongo DB / Docker / React / Redux 
 
+### Languages 
+
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 
 
 
