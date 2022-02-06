@@ -2,22 +2,25 @@
 
 ##  I’m Pete, welcome to my page. 
  
-### About me 
-- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. I love learning, solving problems and particularly interested in front-end.
+### :octocat: About me 
+- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. I love learning, solving problems and particularly like front-end.
 
 - :earth_asia: As well as coding I enjoy travel off the beaten track, art , Studio Ghibli movies and reading.
 
-- :computer: I’m currently learning **Javascript**  / Express.js / SQL & Mongo DB / Docker / React / Redux 
+- :computer: I’m currently learning **React & Redux** 
 
 ### Languages & Skills
 <p align='left'>
 <img src='https://img.icons8.com/color/2x/html-5--v2.png' alt='html' height='50px'/>
 <img src='https://img.icons8.com/color/2x/css3.png' alt='css' height='50px'/>
 <img src='https://img.icons8.com/color/2x/javascript.png' alt='JS' height='50px'/>
-<img src='' alt='' height=''/>
-<img src='' alt='' height=''/>
-<img src='' alt='' height=''/>
-<img src='' alt='' height=''/>
+<img src='https://icons8.com/icon/bzf0DqjXFHIW/react' alt='react' height='50px'/>
+<img src='https://img.icons8.com/color/2x/nodejs.png' alt='node' height='50px'/>
+<img src='https://img.icons8.com/color/2x/postgreesql.png' alt='postgresSQL' height='50px'/>
+<img src='https://img.icons8.com/fluency/2x/docker.png' alt='docker' height='50px'/>
+<img src='https://img.icons8.com/color/2x/material-ui.png' alt='materialUI' height='50px'/> 
+<img src='https://img.icons8.com/glyph-neue/2x/github.png' alt='github' height='50px'/>
+<img src='https://img.icons8.com/color/2x/figma.png' alt='figma' height='50px'/>
 </p> 
 
 
