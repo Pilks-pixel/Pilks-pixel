@@ -2,7 +2,7 @@
 
 ##  I’m Pete, welcome to my page. 
  
-# About me 
+### About me 
 - 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. I love learning, solving problems and particularly interested in front-end.
 
 - :earth_asia: As well as coding I enjoy travel off the beaten track, art , Studio Ghibli movies and reading.
@@ -10,9 +10,9 @@
 - :computer: I’m currently learning **Javascript**  / Express.js / SQL & Mongo DB / Docker / React / Redux 
 
 ### Languages & Skills
-<img src='https://img.icons8.com/color/2x/html-5--v2.png' alt='html' height='40px'/>
-<img src='' alt='' height=''/>
-<img src='' alt='' height=''/>
+<img src='https://img.icons8.com/color/2x/html-5--v2.png' alt='html' height='50px'/>
+<img src='https://img.icons8.com/color/2x/css3.png' alt='css' height='50px'/>
+<img src='https://img.icons8.com/color/2x/javascript.png' alt='JS' height='50px'/>
 <img src='' alt='' height=''/>
 <img src='' alt='' height=''/>
 <img src='' alt='' height=''/>
