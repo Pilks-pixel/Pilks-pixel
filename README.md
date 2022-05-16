@@ -34,10 +34,12 @@
 
 
 ### Projects
-##### Tenzies
-<a href='https://pilks-pixel.github.io/Tenzies-game/'><img src="./images/tenzies.png" alt="tenzies screenshot" width="300" height="280"></a>
+<div>
+<h5>Tenzies</h5>
+<a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" height="280"></a>
 
-Dice game made with React
+<p>Dice game made with React</p>
+</div>
 
 ### Stats 
 
