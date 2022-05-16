@@ -3,7 +3,7 @@
 ##  I’m Pete, welcome to my page! 
  
 ### :octocat: About me 
-- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in changing the world for the better. I love learning, solving problems and particularly like front-end.
+- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology changing the world for the better. I love learning, solving problems and particularly like front-end.
 
 - :earth_asia: As well as coding I enjoy travel off the beaten track, art , Studio Ghibli movies and reading.
 
@@ -23,6 +23,11 @@
 <img src='https://img.icons8.com/color/2x/figma.png' alt='figma' height='50px'/>
 </p> 
 
+
+### Projects
+##### Tenzies
+<a href='https://pilks-pixel.github.io/Tenzies-game/'>Tenzies<img src="" alt="Girl in a jacket" width="500" height="600"></a>
+Dice game made with React
 
 ### Stats 
 
