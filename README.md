@@ -26,7 +26,8 @@
 
 ### Projects
 ##### Tenzies
-<a href='https://pilks-pixel.github.io/Tenzies-game/'>Tenzies<img src="" alt="Girl in a jacket" width="500" height="600"></a>
+<a href='https://pilks-pixel.github.io/Tenzies-game/'><img src="./images/tenzies.png" alt="tenzies screenshot" width="100" height="100"></a>
+
 Dice game made with React
 
 ### Stats 
