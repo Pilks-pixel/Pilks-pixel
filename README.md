@@ -3,7 +3,7 @@
 ##  I’m Pete, welcome to my page! 
  
 ### :octocat: About me 
-- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in disrupting current business models. I love learning, solving problems and particularly like front-end.
+- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology in changing the world for the better. I love learning, solving problems and particularly like front-end.
 
 - :earth_asia: As well as coding I enjoy travel off the beaten track, art , Studio Ghibli movies and reading.
 
