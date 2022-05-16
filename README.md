@@ -9,6 +9,12 @@
 
 - :computer: I’m currently learning **React & Redux** 
 
+<div align='center'>
+<a href='https://www.linkedin.com/in/peter-pilkington-322262107/' target="_blank"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn badge'></a>
+<a href='https://www.codewars.com/users/Pete7891' target="_blank"><img src='https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white' alt='Codewars badge'></a>
+</div>
+
+
 ### Languages & Skills
 <p align='left'>
 <img src='https://img.icons8.com/color/2x/html-5--v2.png' alt='html' height='50px'/>
@@ -26,7 +32,7 @@
 
 ### Projects
 ##### Tenzies
-<a href='https://pilks-pixel.github.io/Tenzies-game/'><img src="./images/tenzies.png" alt="tenzies screenshot" width="100" height="100"></a>
+<a href='https://pilks-pixel.github.io/Tenzies-game/'><img src="./images/tenzies.png" alt="tenzies screenshot" width="200" height="180"></a>
 
 Dice game made with React
 
