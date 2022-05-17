@@ -36,7 +36,7 @@
 ### Projects
 <div>
 <h5>Tenzies</h5>
-<a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" height="280"></a>
+<a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
 
 <p>Dice game made with React</p>
 </div>
