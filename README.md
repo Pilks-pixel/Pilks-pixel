@@ -3,7 +3,7 @@
 ##  I’m Pete, welcome to my page! 
  
 ### :octocat: About me 
-- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology changing the world for the better. I love learning, solving problems and particularly like front-end.
+- 👀 I’m currently a full stack web developer trainee with futureproof. I'm interested in the role of technology changing the world for the better. I love learning, solving problems and all things web related.
 
 - :earth_asia: As well as coding I enjoy travel off the beaten track, art , Studio Ghibli movies and reading.
 
@@ -30,15 +30,25 @@
 <img src='https://img.icons8.com/color/2x/material-ui.png' alt='materialUI' height='50px'/> 
 <img src='https://img.icons8.com/color-glass/2x/github.png' alt='github' height='50px'/>
 <img src='https://img.icons8.com/color/2x/figma.png' alt='figma' height='50px'/>
+<img src='https://img.icons8.com/color/344/mongodb.png' alt='mongoDB' height='50px'/>
 </p> 
 
 
 ### Projects
+<div style='display:flex;'>
 <div>
 <h5>Tenzies</h5>
 <a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
 
 <p>Dice game made with React</p>
+</div>
+
+<div>
+<h5>Quiz Nigth</h5>
+<a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
+
+<p>Quiz game made with React</p>
+</div>
 </div>
 
 ### Stats 
