@@ -35,21 +35,24 @@
 
 
 ### Projects
-<div display='flex'>
-<div>
-<h5>Tenzies</h5>
-<a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
-
-<p>Dice game made with React</p>
-</div>
-
-<div>
-<h5>Quiz Night</h5>
-<a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
-
-<p>Quiz game made with React</p>
-</div>
-</div>
+<table style="width:100%">
+    <tr>
+        <td valign="top" width="50%">
+        <div>
+        <h5>Tenzies</h5>
+        <a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
+        <p>Dice game made with React</p>
+        </div>
+        </td>
+        <td valign="top" width="50%">
+        <div>
+        <h5>Quiz Night</h5>
+        <a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
+        <p>Quiz game made with React</p>
+        </div>
+        </td>
+    </tr>
+</table>
 
 ### Stats 
 
