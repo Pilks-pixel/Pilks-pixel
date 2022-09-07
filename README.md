@@ -35,7 +35,7 @@
 
 
 ### Projects
-<div style='display:flex;'>
+<div display='flex'>
 <div>
 <h5>Tenzies</h5>
 <a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
@@ -44,7 +44,7 @@
 </div>
 
 <div>
-<h5>Quiz Nigth</h5>
+<h5>Quiz Night</h5>
 <a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
 
 <p>Quiz game made with React</p>
