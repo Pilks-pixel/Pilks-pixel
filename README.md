@@ -48,7 +48,7 @@
         <div>
         <h5>Quiz Night</h5>
         <a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
-        <p>Quiz game made with React</p>
+        <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
         </div>
         </td>
     </tr>
