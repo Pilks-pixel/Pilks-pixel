@@ -35,7 +35,7 @@
 
 
 ### Projects
-<table style="width:100%">
+<table align="center">
     <tr>
         <td valign="top" width="50%">
         <div>
