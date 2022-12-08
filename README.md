@@ -1,4 +1,4 @@
-<img src='./images/petes-projectgithub-10.svg alt='banner' width='1000' height='200'/> 
+<img src='./images/petes-projectgithub-10.svg' alt='banner' width='1000' height='200'/> 
 
 ##  I’m Pete, welcome to my page! 
  
