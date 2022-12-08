@@ -1,4 +1,4 @@
-<img src='./images/peteproject-09.png' alt='banner' width='800' height='250'/> 
+<img src='./images/peteproject-09.png' alt='banner' width='600' height='350'/> 
 
 ##  I’m Pete, welcome to my page! 
  
