@@ -1,4 +1,4 @@
-<img src='https://media.giphy.com/media/ymwg2hvAKuuuiDN1x3/giphy.gif' alt='hello' height='80px'/> 
+<img src='./images/peteproject-09.png' alt='banner' width='1400' height='300'/> 
 
 ##  I’m Pete, welcome to my page! 
  
