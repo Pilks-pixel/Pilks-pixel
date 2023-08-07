@@ -39,6 +39,13 @@
     <tr>
         <td valign="top" width="50%">
         <div>
+        <h5>Pixel Chat</h5>
+        <a href='https://pilks-pixel-chat.netlify.app/'><img style='border:purple' src="./images/chat.png" alt="chat screenshot" width="300" ></a>
+        <p>Real Time Chat with Authentication / Authorization</p>
+        </div>
+        </td>
+        <td valign="top" width="50%">
+        <div>
         <h5>Tenzies</h5>
         <a href='https://pilks-pixel.github.io/Tenzies-game/'><img style='border:purple' src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
         <p>Dice game made with React</p>
@@ -47,8 +54,15 @@
         <td valign="top" width="50%">
         <div>
         <h5>Quiz Night</h5>
-        <a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz-night.png" alt="Quiz screenshot" width="300" ></a>
+        <a href='https://pete-quiz-night.netlify.app/'><img style='border:purple' src="./images/quiz.png" alt="Quiz screenshot" width="300" ></a>
         <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
+        </div>
+        </td>
+        <td valign="top" width="50%">
+        <div>
+        <h5>Nou Design</h5>
+        <a href='https://noudesignstudio.vercel.app/'><img style='border:purple' src="./images/nou.png" alt="nou design screenshot" width="300" ></a>
+        <p>Responsive design / Web Animations API / Parallax scroll</p>
         </div>
         </td>
     </tr>
