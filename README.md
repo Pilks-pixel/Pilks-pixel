@@ -42,41 +42,41 @@
 <table align="center">
     <tr>
         <td valign="top" width="50%">
-            <div>
             <h2 align="center">Pixel Chat</h2>
             <br>
             <br>
+            <div>
             <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
             <p>Real Time Chat with Authentication / Authorization</p>
-            </div>
         </td>
+            </div>
         <td valign="top" width="50%">
-            <div>
             <h2 align="center">Quiz Night</h2>
             <br>
             <br>
-            <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='300' src="./images/quiz.png" alt="Quiz screenshot"></a>
+            <div height='300'>
+            <a href='https://pete-quiz-night.netlify.app/'><img width="100%" src="./images/quiz.png" alt="Quiz screenshot"></a>
             <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
-            </div>
         </td>
+            </div>
     </tr>
         <td valign="top" width="50%">
-            <div>
             <h2 align="center">Nou Design</h2>
             <br>
             <br>
-            <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='300' src="./images/nou.png" alt="nou design screenshot"></a>
+            <div height='300'>
+            <a href='https://noudesignstudio.vercel.app/'><img width="100%" src="./images/nou.png" alt="nou design screenshot"></a>
             <p>Responsive design / Web Animations API / Parallax scroll</p>
-            </div>
         </td>
+            </div>
         <td valign="top" width="50%">
-            <div>
             <h2 align="center">Tenzies</h2>
             <br>
             <br>
+            <div>
             <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
-            <p>Dice game made with React</p>
             </div>
+            <p>Dice game made with React</p>
         </td>
     <tr>
     </tr>
