@@ -29,7 +29,7 @@
 <img src='https://img.icons8.com/color/2x/nodejs.png' alt='node' height='50px'/>
 <img src='https://img.icons8.com/color/2x/postgreesql.png' alt='postgresSQL' height='50px'/>
 <img src='https://img.icons8.com/fluency/2x/docker.png' alt='docker' height='50px'/>
-<img src='https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css' alt='tailwind' height='50px'/> 
+<img src='https://img.icons8.com/color/2x/tailwind-css.png' alt='tailwind' height='50px'/> 
 <img src='https://img.icons8.com/color-glass/2x/github.png' alt='github' height='50px'/>
 <img src='https://img.icons8.com/color/2x/figma.png' alt='figma' height='50px'/>
 <img src='https://img.icons8.com/color/344/mongodb.png' alt='mongoDB' height='50px'/>
@@ -55,7 +55,7 @@
             <h2 align="center">Quiz Night</h2>
             <br>
             <br>
-            <a href='https://pete-quiz-night.netlify.app/'><img width="100%" src="./images/quiz.png" alt="Quiz screenshot" width="300" ></a>
+            <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot" width="300" ></a>
             <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
             </div>
         </td>
@@ -65,7 +65,7 @@
             <h2 align="center">Nou Design</h2>
             <br>
             <br>
-            <a href='https://noudesignstudio.vercel.app/'><img width="100%" src="./images/nou.png" alt="nou design screenshot" width="300" ></a>
+            <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='100%' src="./images/nou.png" alt="nou design screenshot" width="300" ></a>
             <p>Responsive design / Web Animations API / Parallax scroll</p>
             </div>
         </td>
