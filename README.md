@@ -3,11 +3,11 @@
 ##  I’m Pete! 
  
 ### :octocat: About 
-- 👀 I’m a self taught full stack developer, who is passonate about programming and using technology to solve problems. I love learning, freqently pushing myself out of my comfort zone and enthusiastic about improving my craft. 
+- 👀 I’m a self-taught full stack developer, who is passionate about programming and using technology to solve problems. I love learning, frequently pushing myself out of my comfort zone and I'm enthusiastic about improving my craft.
 
-- 👾 As well as coding I enjoy travel off the beaten track, retro video games , Studio Ghibli movies and reading.
+- 👾 As well as coding I enjoy travel off the beaten track, retro video games, Studio Ghibli movies and reading.
 
-- :computer: Check out my [portfolio](https://peterpilkington.com) for more on me & I’m currently learning **Typscript** 
+- :computer: Check out my [portfolio](https://peterpilkington.com) for more on me & I’m currently learning **Typescript** 
 
 
 <div align='center'>
@@ -46,39 +46,39 @@
             <br>
             <br>
             <div>
-            <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
+                <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
             </div>
             <p>Real Time Chat with Authentication / Authorization</p>
-        </td>
-        <td valign="top" width="50%">
-            <h2 align="center">Quiz Night</h2>
-            <br>
-            <br>
-            <div height='275'>
-            <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot"></a>
-            </div>
-            <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
-        </td>
-    </tr>
-        <td valign="top" width="50%">
-            <h2 align="center">Nou Design</h2>
-            <br>
-            <br>
-            <div height='275'>
-            <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='100%' src="./images/nou.png" alt="nou design screenshot"></a>
-            </div>
-            <p>Responsive design / Web Animations API / Parallax scroll</p>
         </td>
         <td valign="top" width="50%">
             <h2 align="center">Tenzies</h2>
             <br>
             <br>
             <div>
-            <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
+                <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
             </div>
             <p>Dice game made with React</p>
         </td>
+    </tr>
     <tr>
+        <td valign="top" width="50%">
+            <h2 align="center">Quiz Night</h2>
+            <br>
+            <br>
+            <div height='275'>
+                <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot"></a>
+            </div>
+            <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
+        </td>
+        <td valign="top" width="50%">
+            <h2 align="center">Nou Design</h2>
+            <br>
+            <br>
+            <div height='275'>
+                <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='100%' src="./images/nou.png" alt="nou design screenshot"></a>
+            </div>
+            <p>Responsive design / Web Animations API / Parallax scroll</p>
+        </td>      
     </tr>
 </table>
 
