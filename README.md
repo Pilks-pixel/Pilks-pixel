@@ -47,18 +47,18 @@
             <br>
             <div>
             <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
+            </div>
             <p>Real Time Chat with Authentication / Authorization</p>
         </td>
-            </div>
         <td valign="top" width="50%">
             <h2 align="center">Quiz Night</h2>
             <br>
             <br>
             <div height='275'>
             <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot"></a>
+            </div>
             <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
         </td>
-            </div>
     </tr>
         <td valign="top" width="50%">
             <h2 align="center">Nou Design</h2>
@@ -66,9 +66,9 @@
             <br>
             <div height='275'>
             <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='100%' src="./images/nou.png" alt="nou design screenshot"></a>
+            </div>
             <p>Responsive design / Web Animations API / Parallax scroll</p>
         </td>
-            </div>
         <td valign="top" width="50%">
             <h2 align="center">Tenzies</h2>
             <br>
