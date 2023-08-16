@@ -45,7 +45,7 @@
             <h2 align="center">Pixel Chat</h2>
             <br>
             <br>
-            <div>
+            <div height='275'>
                 <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
             </div>
             <p>Real Time Chat with Authentication / Authorization</p>
@@ -54,7 +54,7 @@
             <h2 align="center">Tenzies</h2>
             <br>
             <br>
-            <div>
+            <div height='275'>
                 <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
             </div>
             <p>Dice game made with React</p>
