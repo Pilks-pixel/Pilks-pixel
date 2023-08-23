@@ -7,7 +7,7 @@
 
 - 👾 As well as coding I enjoy travel off the beaten track, retro video games, Studio Ghibli movies and reading.
 
-- :computer: Check out my [portfolio](https://peterpilkington.com) for more on me & I’m currently learning **Typescript** 
+- :computer: Check out my [portfolio](https://peterpilkington.com) for more on me & I’m currently learning **Typescript**
 
 
 <div align='center'>
@@ -48,6 +48,7 @@
             <div height='275'>
                 <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
             </div>
+            <br>
             <p>Real Time Chat with Authentication / Authorization</p>
         </td>
         <td valign="top" width="50%">
@@ -57,6 +58,7 @@
             <div height='275'>
                 <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
             </div>
+            <br>
             <p>Dice game made with React</p>
         </td>
     </tr>
@@ -68,6 +70,7 @@
             <div height='275'>
                 <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot"></a>
             </div>
+            <br>
             <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
         </td>
         <td valign="top" width="50%">
@@ -77,6 +80,7 @@
             <div height='275'>
                 <a href='https://noudesignstudio.vercel.app/'><img width="100%" height='100%' src="./images/nou.png" alt="nou design screenshot"></a>
             </div>
+            <br>
             <p>Responsive design / Web Animations API / Parallax scroll</p>
         </td>      
     </tr>
