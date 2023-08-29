@@ -1,4 +1,4 @@
-<img src='./images/petes-projectgithub-10.svg' alt='banner' width='1000' height='200'/> 
+<img src='./images/background-image.jpg' alt='banner' width='1000' height='200'/> 
 
 ##  I’m Pete! 
  
@@ -46,33 +46,23 @@
             <br>
             <br>
             <div height='275'>
-                <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat.png" alt="chat screenshot" width="300" ></a>
+                <a href='https://pilks-pixel-chat.netlify.app/'><img width="100%" src="./images/chat-img.png" alt="chat screenshot" width="300" ></a>
             </div>
             <br>
             <p>Real Time Chat with Authentication / Authorization</p>
         </td>
         <td valign="top" width="50%">
-            <h2 align="center">Tenzies</h2>
-            <br>
-            <br>
-            <div height='275'>
-                <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies.png" alt="tenzies screenshot" width="300" ></a>
-            </div>
-            <br>
-            <p>Dice game made with React</p>
-        </td>
-    </tr>
-    <tr>
-        <td valign="top" width="50%">
             <h2 align="center">Quiz Night</h2>
             <br>
             <br>
             <div height='275'>
-                <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz.png" alt="Quiz screenshot"></a>
+                <a href='https://pete-quiz-night.netlify.app/'><img width="100%" height='100%' src="./images/quiz-img.png" alt="Quiz screenshot"></a>
             </div>
             <br>
             <p>Quiz using React / React Router v6 / MongoDB / Node.js </p>
         </td>
+    </tr>
+    <tr>
         <td valign="top" width="50%">
             <h2 align="center">Nou Design</h2>
             <br>
@@ -83,6 +73,16 @@
             <br>
             <p>Responsive design / Web Animations API / Parallax scroll</p>
         </td>      
+        <td valign="top" width="50%">
+            <h2 align="center">Tenzies</h2>
+            <br>
+            <br>
+            <div height='275'>
+                <a href='https://pilks-pixel.github.io/Tenzies-game/'><img width="100%" src="./images/tenzies-img.png" alt="tenzies screenshot" width="300" ></a>
+            </div>
+            <br>
+            <p>Dice game made with React</p>
+        </td>
     </tr>
 </table>
 
