@@ -1,4 +1,4 @@
-<img src='./images/background-image.jpg' alt='banner' width='1000' height='200' style='object-fit: cover' />
+<img src='./images/background-image.jpg' alt='banner' width='900' height='200' style='object-fit: cover;display: block;margin: 0 auto;' />
 
 
 
