@@ -1,4 +1,6 @@
-<img src='./images/background-image.jpg' alt='banner' width='1000' height='200'/> 
+<img src='./images/background-image.jpg' alt='banner' width='1000' height='200' style='object-fit: cover' />
+
+
 
 ##  I’m Pete! 
  
